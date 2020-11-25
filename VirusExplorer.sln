@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrojan", "SimpleTrojan\SimpleTrojan.csproj", "{6617DF2C-ADAB-4326-AFD0-679EB0A1160B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandCamTrojan", "CommandCamTrojan\CommandCamTrojan.csproj", "{869A6281-D541-4491-ABD4-66B4648233FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRansomware", "SimpleRansomware\SimpleRansomware.csproj", "{5DC30839-EBB1-4379-8DC4-E645D80FAFBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRansomCli", "SimpleRansomCli\SimpleRansomCli.csproj", "{FD1B257F-ADB5-4F07-890B-52120A43C38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6617DF2C-ADAB-4326-AFD0-679EB0A1160B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6617DF2C-ADAB-4326-AFD0-679EB0A1160B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6617DF2C-ADAB-4326-AFD0-679EB0A1160B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6617DF2C-ADAB-4326-AFD0-679EB0A1160B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869A6281-D541-4491-ABD4-66B4648233FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869A6281-D541-4491-ABD4-66B4648233FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869A6281-D541-4491-ABD4-66B4648233FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869A6281-D541-4491-ABD4-66B4648233FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC30839-EBB1-4379-8DC4-E645D80FAFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC30839-EBB1-4379-8DC4-E645D80FAFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC30839-EBB1-4379-8DC4-E645D80FAFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC30839-EBB1-4379-8DC4-E645D80FAFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94AA6CF-BFA5-4B64-AE27-770518C929F4}
+	EndGlobalSection
+EndGlobal
