@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRansomware", "SimpleR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRansomCli", "SimpleRansomCli\SimpleRansomCli.csproj", "{FD1B257F-ADB5-4F07-890B-52120A43C38F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduldedSimpleTrojan", "ScheduldedSimpleTrojan\ScheduldedSimpleTrojan.csproj", "{0FCF4BB5-8258-4CA0-BA3A-7A7958060ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1B257F-ADB5-4F07-890B-52120A43C38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCF4BB5-8258-4CA0-BA3A-7A7958060ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCF4BB5-8258-4CA0-BA3A-7A7958060ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCF4BB5-8258-4CA0-BA3A-7A7958060ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCF4BB5-8258-4CA0-BA3A-7A7958060ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
